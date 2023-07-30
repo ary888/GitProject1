@@ -20,3 +20,4 @@ public class DemoDay2 {
 	public static void divide(int a, int b) {
 		System.out.println(a/b);
 }
+}
